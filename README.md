@@ -38,7 +38,8 @@ This project demonstrates how to implement a time series forecasting model using
    cd prophet_Time_series_forcasting
 
 ## Requirements
-```bash
+To install the necessary packages, run:
+
 pip install -r requirements.txt
 
 ## Usage
