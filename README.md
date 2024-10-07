@@ -38,11 +38,12 @@ This project demonstrates how to implement a time series forecasting model using
    cd prophet_Time_series_forcasting
 
 ## Requirements
-
+```bash
 pip install -r requirements.txt
 
 ## Usage
 
 Start the Flask application:
+```bash
 python app.py
 
